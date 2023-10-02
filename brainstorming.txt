@@ -1,1 +1,25 @@
+Sectors:
+
+1 finance
+2 healthcare
+3 social media
+4 SQL database
+
+
+section 1 - finance:
+3 projects: 1 - time series analysis
+            2 - fraud detection
+            3 - credit score 
+
+section 2 - healthcare:
+3 projects: 1 - predictive 
+            2 - image recognition
+            3 - analysis
+
+section 3 - social media
+2 projects
+
+section 4 - SQL database
+2 projects
+
 
