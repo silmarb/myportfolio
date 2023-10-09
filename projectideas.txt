@@ -1,6 +1,0 @@
-portfolio sections 
-
-1 financial datasets analysis 3
-2 healthcare image recogniction/analysis 3
-3 social media analysis 3
-4 sport analysis 2
